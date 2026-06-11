@@ -1,16 +1,19 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile;My+name+is+Pablo+Velásquez;Systems+Engineering+Student;Welcome!)
 
-<!--
-**Pablo-Velasquez04/Pablo-Velasquez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-Here are some ideas to get you started:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Velasquez04&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">  
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pablo-Velasquez04&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Velásquez github stats" /> 
+ 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Velasquez04&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Pablo-Velasquez04&theme=tokyonight_duo&hide_border=true" />
+</p>
