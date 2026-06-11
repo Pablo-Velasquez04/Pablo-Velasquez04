@@ -2,6 +2,14 @@
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Systems Engineering student with a passion for learning.<br>
+Interested in technology, programming, and tackling challenges that foster personal and professional growth.
+</p>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Velasquez04&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
