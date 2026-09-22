@@ -15,9 +15,7 @@ Interested in technology, programming, and tackling challenges that foster perso
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pablo-Velasquez04&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Velásquez github stats" /> 
- 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Velasquez04&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Pablo-Velasquez04&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
