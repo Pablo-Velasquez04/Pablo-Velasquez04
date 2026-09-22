@@ -8,15 +8,3 @@
 Systems Engineering student with a passion for learning.<br>
 Interested in technology, programming, and tackling challenges that foster personal and professional growth.
 </p>
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-[![Activity Graph](https://vercel.app)](https://github.com)
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Pablo-Velasquez04&theme=tokyonight_duo&hide_border=true" />
-</p>
